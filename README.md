@@ -10,5 +10,9 @@ npm install
 ```
 
 ```
+gulp
+```
+
+```
 gulp watch
 ```
